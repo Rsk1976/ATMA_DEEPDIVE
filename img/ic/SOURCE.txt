@@ -1,0 +1,1 @@
+Material Design Icons (Pictogrammers), Apache License 2.0, fetched via api.iconify.design on 2026-10-28
